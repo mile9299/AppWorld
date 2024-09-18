@@ -156,8 +156,8 @@
     "*.{js,jsx,ts,tsx,html,json,md,mdx}": "prettier --write"
   },
   "dependencies": {
-    "@docusaurus/core": "2.4.0",
-    "@docusaurus/preset-classic": "2.4.0",
+    "@docusaurus/core": "3.3.0",
+    "@docusaurus/preset-classic": "3.0.0",
     "@mdx-js/react": "^1.6.22",
     "@ngneat/falso": "^6.1.0",
     "@previewjs/config-helper-nextjs": "^1.0.19",
@@ -170,7 +170,7 @@
     "clsx": "^1.2.1",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
-    "express": "^4.18.1",
+    "express": "^4.20.0",
     "express-jwt": "^8.4.1",
     "install": "^0.13.0",
     "jsonwebtoken": "^9.0.0",
